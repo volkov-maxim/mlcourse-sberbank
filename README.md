@@ -1,2 +1,2 @@
-# ML_course@Sberbank
+# mlcourse@sber
 Homeworks, jupyter notebooks, presentations
